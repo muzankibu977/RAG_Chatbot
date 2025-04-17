@@ -70,5 +70,6 @@ Before starting, ensure that the following tools are installed on your PC:
 #### Contact:
     For any questions or issues, feel free to reach out to the project maintainer:
         - Email: muzankibu977@gmail.com 
+        - Girhub Repo: https://github.com/muzankibu977/RAG_Chatbot
 
 ### Thank you for using the **Bank Customer Service Chatbot**! We hope this tool helps streamline customer support and enhances user experience.
