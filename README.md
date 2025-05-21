@@ -2,6 +2,8 @@
 
 Welcome to the **Bank Customer Service Chatbot** project! This chatbot is built using Retrieval-Augmented Generation (RAG) and leverages a knowledge base (`bank.pdf`) to provide accurate responses to customer queries. Below are the steps to set up and run the project on your local machine.
 
+![Screenshot 2025-05-20 215642](https://github.com/user-attachments/assets/c62dc92d-ba97-48fc-8f99-9bdcfeae2dbc)
+
 ### Prerequisites-
 
 Before starting, ensure that the following tools are installed on your PC:
